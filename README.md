@@ -1,6 +1,6 @@
 # WebScreenshot 
 
-Dockerで使い指定したURLのスクリーンショットを作成
+Dockerで使い指定したURLのスクリーンショットを作成  
 スクリーンショットの取得方法はPlaywright for pythonを使用しています
 
 ## 推奨環境
